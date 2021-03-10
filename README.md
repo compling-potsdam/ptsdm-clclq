@@ -13,7 +13,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 05 | 2021-05-12 | [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) (University of Trento)  | |
 06 | 2021-05-19 | *tbc*| |
 07 | 2021-05-26 | *tbc*| |
-08 | 2021-06-02 | Katja Filippova (Google Berlin) | |
+08 | 2021-06-02 | [Katja Filippova](https://research.google/people/author39008/) (Google Berlin) | |
 09 | 2021-06-09 | *no talk / internal* | |
 10 | 2021-06-16 | [Malihe Alikhan](https://www.malihealikhani.com) (University of Pittsburgh) | |
 11 | 2021-06-23 | [Georg Rehm](http://georg-re.hm) (DFKI, Berlin)| |
