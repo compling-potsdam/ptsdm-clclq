@@ -8,12 +8,12 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 |:------:|:------:|-----------|------|
 01 | 2021-04-14 | David Schlangen | [Getting Credit](material/01-colloq-guidelines.pdf) | 
 02 | 2021-04-21 | *no talk / internal* |  |
-03 | 2021-04-28 | *tbc* | |
-04 | 2021-05-05 | *no talk / internal* | |
+03 | 2021-04-28 | [Jason Baldridge](http://www.jasonbaldridge.com) (Google, Austin) | |
+04 | 2021-05-05 | [Verena Rieser](https://sites.google.com/site/verenateresarieser/) (Heriot Watt U, Edinburgh) | |
 05 | 2021-05-12 | [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) (University of Trento)  | |
-06 | 2021-05-19 | *tbc*| |
+06 | 2021-05-19 | *no talk / internal* | |
 07 | 2021-05-26 | *tbc*| |
-08 | 2021-06-02 | [Katja Filippova](https://research.google/people/author39008/) (Google Berlin) | |
+08 | 2021-06-02 | [Katja Filippova](https://research.google/people/author39008/) (Google, Berlin) | |
 09 | 2021-06-09 | *no talk / internal* | |
 10 | 2021-06-16 | [Malihe Alikhan](https://www.malihealikhani.com) (University of Pittsburgh) | |
 11 | 2021-06-23 | [Georg Rehm](http://georg-re.hm) (DFKI, Berlin)| |
