@@ -1,6 +1,6 @@
 # Potsdam Computational Linguistics Colloquium, Summer 2021
 
-We're happy to have another round of great speakers this semester. The format will again (but hopefully for the last time) be entirely remote. Local students and staff: Please sign up on moodle for `cl-colloquium-2021` -- you will find the link to the remote meeting there on the day of the talk. Externals interesting in joining: Please email me (David Schlangen) & I'll send you the link.
+We're happy to have another round of great speakers this semester. The format will again (but hopefully for the last time) be entirely remote. Local students and staff: Please sign up on moodle for `cl-colloquium-2021` -- you will find the link to the remote meeting there on the day of the talk. Externals interested in joining: Please email me (David Schlangen) & I'll send you the link.
 
 BSc students: It will be possible to get credit for taking this class ("Schlüsselqualifikationen"). If you are interested in this, come to the first session. (Details will be shown in the comments on the PULS entry for the class.)
 
@@ -12,7 +12,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 04 | 2021-05-05 | [Verena Rieser](https://sites.google.com/site/verenateresarieser/) (Heriot Watt U, Edinburgh) | |
 05 | 2021-05-12 | [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) (University of Trento)  | |
 06 | 2021-05-19 | *no talk / internal* | |
-07 | 2021-05-26 | *tbc*| |
+07 | 2021-05-26 | [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/) (University of Glasgow)| |
 08 | 2021-06-02 | [Katja Filippova](https://research.google/people/author39008/) (Google, Berlin) | |
 09 | 2021-06-09 | *no talk / internal* | |
 10 | 2021-06-16 | [Malihe Alikhani](https://www.malihealikhani.com) (University of Pittsburgh) | |
