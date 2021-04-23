@@ -9,7 +9,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 01 | 2021-04-14 | David Schlangen | [Getting Credit](material/01-colloq-guidelines.pdf) | 
 02 | 2021-04-21 | *no talk / internal* |  |
 03 | 2021-04-28 | [Jason Baldridge](http://www.jasonbaldridge.com) (Google, Austin) | Language, vision and action are better together [(abstract)](material/baldridge_abstract.md)|
-04 | 2021-05-05 | [Verena Rieser](https://sites.google.com/site/verenateresarieser/) (Heriot Watt U, Edinburgh) | |
+04 | 2021-05-05 | [Verena Rieser](https://sites.google.com/site/verenateresarieser/) (Heriot Watt U, Edinburgh) | A short history of data-driven dialogue systems in 5 acts: Where do we go from here? [(abstract)](material/rieser_abstract.md) |
 05 | 2021-05-12 | [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) (University of Trento)  | |
 06 | 2021-05-19 | *no talk / internal* | |
 07 | 2021-05-26 | [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/) (University of Glasgow)| |
