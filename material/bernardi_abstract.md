@@ -1,6 +1,6 @@
 ## Visually Grounded alternative set
 
-*Raffaela Bernardi, University of Trento*
+*Raffaella Bernardi, University of Trento*
 
 *May, 25th, 2021*
 
