@@ -1,6 +1,6 @@
 ## Interpretable Representations for Affect and Semantics
 
-*Gerard de Melo, Hasso Plattner Institute / University of Potsdam
+*Gerard de Melo, Hasso Plattner Institute / University of Potsdam*
 
 *June 30th, 2021*
 
