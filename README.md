@@ -17,7 +17,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 09 | 2021-06-09 | *no talk / internal* | |
 10 | 2021-06-16 | [Malihe Alikhani](https://www.malihealikhani.com) (University of Pittsburgh) | Show and Tell: Learning to Connect Images and Text for Natural Communication [(abstract)](material/2021/alikhani_abstract.md) |
 11 | 2021-06-23 | *no talk / internal* | |
-12 | 2021-06-30 | [Gerard de Melo](http://gerard.demelo.org) (HPI, Potsdam)| |
+12 | 2021-06-30 | [Gerard de Melo](http://gerard.demelo.org) (HPI, Potsdam)| Interpretable Representations for Affect and Semantics  [(abstract)](material/2021/demelo_abstract.md)|
 13 | 2021-07-07 | [Georg Rehm](http://georg-re.hm) (DFKI, Berlin) | |
 14 | 2021-07-14 | [Katja Filippova](https://research.google/people/author39008/) (Google, Berlin) | |
 15 | 2021-07-21 | *no talk / internal* | |
