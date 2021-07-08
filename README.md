@@ -19,7 +19,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 11 | 2021-06-23 | *no talk / internal* | |
 12 | 2021-06-30 | [Gerard de Melo](http://gerard.demelo.org) (HPI, Potsdam)| Interpretable Representations for Affect and Semantics  [(abstract)](material/2021/demelo_abstract.md) [(slides)](https://speakerdeck.com/gdm/interpretable-representations-for-affect-and-semantics)|
 13 | 2021-07-07 | [Georg Rehm](http://georg-re.hm) (DFKI, Berlin) | European Language Grid – An Overview [(abstract)](material/2021/rehm_abstract.md)|
-14 | 2021-07-14 | [Katja Filippova](https://research.google/people/author39008/) (Google, Berlin) | |
+14 | 2021-07-14 | [Katja Filippova](https://research.google/people/author39008/) (Google, Berlin) | Towards Trustworthy Natural Language Processing [(abstract)](material/2021/filippova_abstract.md)|
 15 | 2021-07-21 | *no talk / internal* | |
 
 
