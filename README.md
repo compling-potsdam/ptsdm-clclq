@@ -2,7 +2,7 @@
 
 We're happy to have another round of great speakers this semester. (With more to be announced.)
 
-This year, we're (finally) again aiming for a format that involves more physical presence. While some of the talks will be given remotely via zoom, we will do invite the audience to come to the lecture hall (room 0.09, building 14, Golm) where it will be projected and the QnA session will be done. (And where we hope we can find some way to encourage post-talk discussions.) For some talks, the actual speaker will actual physically be in the room as well!
+This year, we're (finally) again aiming for a format that involves more physical presence. While some of the talks will be given remotely via zoom, we do invite the audience to come to the lecture hall (room 0.09, building 14, Golm) where it will be projected and the QnA session will be done. (And where we hope we can find some way to encourage post-talk discussions.) For some talks, the actual speaker will actual physically be in the room as well!
 
 BSc students: It will be possible to get credit for taking this class ("Schlüsselqualifikationen"). If you are interested in this, please email me before the first session. (Details will be shown in the comments on the PULS entry for the class.)
 
