@@ -6,6 +6,9 @@ This year, we're (finally) again aiming for a format that involves more physical
 
 BSc students: It will be possible to get credit for taking this class ("Schlüsselqualifikationen"). If you are interested in this, please email me before the first session. (Details will be shown in the comments on the PULS entry for the class.)
 
+(All talks will be from 4-6 pm CEST on the respective day, unless otherwise noted.)
+
+
 | Week | Date | Presenter(s) | Title / Abstract|
 |:------:|:------:|-----------|------|
 01 | 2022-04-20 | David Schlangen | [Getting Credit](material/2022/01-colloq-guidelines.pdf) | 
