@@ -6,7 +6,7 @@ This year, we're (finally) again aiming for a format that involves more physical
 
 BSc students: It will be possible to get credit for taking this class ("Schlüsselqualifikationen"). If you are interested in this, please email me before the first session. (Details will be shown in the comments on the PULS entry for the class.)
 
-(All talks will be from 4-6 pm CEST on the respective day, unless otherwise noted.)
+(All talks will be from 4-6 pm CEST on the respective day, unless otherwise noted. Weeks without entries are used for student dissertation presentations.)
 
 
 | Week | Date | Presenter(s) | Title / Abstract|
@@ -15,16 +15,16 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 02 | 2022-04-27 | | |
 03 | 2022-05-04 | [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) (University of Michigan, USA)| tba |
 04 | 2022-05-11 | | |
-05 | 2022-05-18 | | |
-06 | 2022-05-25 | *no talk / internal* | |
+05 | 2022-05-18 | *[ MSc IM Poster Day ]* | |
+06 | 2022-05-25 |  | |
 07 | 2022-06-01 | [Yonatan Bisk](https://yonatanbisk.com) (CMU, USA) | tba |
 08 | 2022-06-08 | | |
 09 | 2022-06-15 | | |
-10 | 2022-06-22 |  *no talk / internal* | |
+10 | 2022-06-22 |   | |
 11 | 2022-06-29 | [Aurelie Herbelot](https://aurelieherbelot.net) (CIMeC, University of Trento, Italy) | tba |
 12 | 2022-07-06 | [Hendrik Buschmeier](https://www.techfak.uni-bielefeld.de/~hbuschme/) (Bielefeld University, Germany) | tba |
-13 | 2022-07-13 | | |
-14 | 2022-07-20 |  *no talk / internal* | | 
+13 | 2022-07-13 | [Alexander Koller](https://www.coli.uni-saarland.de/~koller/) (Saarland University, Germany)| tba |
+14 | 2022-07-20 |   | | 
 15 | 2022-07-27 | | |
 
 
