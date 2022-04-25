@@ -13,7 +13,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 |:------:|:------:|-----------|------|
 01 | 2022-04-20 | David Schlangen | [Getting Credit](material/2022/01-colloq-guidelines.pdf) | 
 02 | 2022-04-27 | | |
-03 | 2022-05-04 | [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) (University of Michigan, USA)| tba |
+03 | 2022-05-04 | [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) (University of Michigan, USA)| Pragmatic Communication in Embodied AI [(abstract)](material/2022/chai_abstract.md) |
 04 | 2022-05-11 | | |
 05 | 2022-05-18 | *[ MSc IM Poster Day ]* | |
 06 | 2022-05-25 |  | |
