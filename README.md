@@ -17,7 +17,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 04 | 2022-05-11 | | |
 05 | 2022-05-18 | *[ MSc IM Poster Day ]* | |
 06 | 2022-05-25 |  | |
-07 | 2022-06-01 | [Yonatan Bisk](https://yonatanbisk.com) (CMU, USA) | tba |
+07 | 2022-06-01 | [Yonatan Bisk](https://yonatanbisk.com) (CMU, USA) | Following Instructions and Asking Questions [(abstract)](material/2022/bisk_abstract.md) |
 08 | 2022-06-08 | | |
 09 | 2022-06-15 | | |
 10 | 2022-06-22 |   | |
