@@ -19,11 +19,11 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 06 | 2022-05-25 |  | |
 07 | 2022-06-01 | [Yonatan Bisk](https://yonatanbisk.com) (CMU, USA) | Following Instructions and Asking Questions [(abstract)](material/2022/bisk_abstract.md) |
 08 | 2022-06-08 | | |
-09 | 2022-06-15 | | |
+09 | 2022-06-15 | [Alexander Koller](https://www.coli.uni-saarland.de/~koller/) (Saarland University, Germany)| tba |
 10 | 2022-06-22 |   | |
 11 | 2022-06-29 | [Aurelie Herbelot](https://aurelieherbelot.net) (CIMeC, University of Trento, Italy) | tba |
 12 | 2022-07-06 | [Hendrik Buschmeier](https://www.techfak.uni-bielefeld.de/~hbuschme/) (Bielefeld University, Germany) | tba |
-13 | 2022-07-13 | [Alexander Koller](https://www.coli.uni-saarland.de/~koller/) (Saarland University, Germany)| tba |
+13 | 2022-07-13 | | |
 14 | 2022-07-20 |   | | 
 15 | 2022-07-27 | | |
 
