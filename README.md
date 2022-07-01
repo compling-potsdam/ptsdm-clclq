@@ -22,7 +22,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 09 | 2022-06-15 | [Alexander Koller](https://www.coli.uni-saarland.de/~koller/) (Saarland University, Germany)| Compositional Semantic Parsing [(abstract)](material/2022/koller_abstract.md)|
 10 | 2022-06-22 |   | |
 11 | 2022-06-29 | [Aurelie Herbelot](https://aurelieherbelot.net) (CIMeC, University of Trento, Italy) | Toward the automatic acquisition of truth-theoretic models [(abstract)](material/2022/herbelot_abstract.md) |
-12 | 2022-07-06 | [Hendrik Buschmeier](https://www.techfak.uni-bielefeld.de/~hbuschme/) (Bielefeld University, Germany) | tba |
+12 | 2022-07-06 | [Hendrik Buschmeier](https://www.techfak.uni-bielefeld.de/~hbuschme/) (Bielefeld University, Germany) | Conversational Agent ‘Perspectives’ on the Human Interlocutor [(abstract)](material/2022/buschmeier_abstract.md) |
 13 | 2022-07-13 | | |
 14 | 2022-07-20 |   | | 
 15 | 2022-07-27 | | |
