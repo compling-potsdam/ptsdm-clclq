@@ -20,13 +20,13 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 06 | 2023-05-24 |   |   |
 07 | 2023-05-31 |   |   |
 08 | 2023-06-07 |   |   |
-09 | 2023-06-14 |   |   |
+09 | 2023-06-14 | Leonhard Hennig (DFKI)  | tba  |
 10 | 2023-06-21 |   |   |
-11 | 2023-06-28 |   |   |
+11 | 2023-06-28 | Roland Roller (DFKI)  | tba  |
 12 | 2023-07-05 |   |   |
 13 | 2023-07-12 |   |   |
-14 | 2023-07-19 |   |   |
-15 | 2023-07-26 |   |   |
+14 | 2023-07-19 |  Aljoscha Burchardt (DFKI) | tba  |
+15 | 2023-07-26 |  Julia Hockenmaier (U Illinois at Urbana-Champaign) | tba  |
 
 
 ### Previous Years
