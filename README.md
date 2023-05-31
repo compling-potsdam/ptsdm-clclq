@@ -19,7 +19,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 05 | 2023-05-17 |   |   |
 06 | 2023-05-24 |   |   |
 07 | 2023-05-31 |   |   |
-08 | 2023-06-07 |   |   |
+08 | 2023-06-07 | Sebastian Ruder (Google Berlin)  | Challenges and Opportunities in NLP for Under-Represented Languages [(abstract)](material/2023/ruder_abstract.md)  |
 09 | 2023-06-14 | Leonhard Hennig (DFKI)  | tba  |
 10 | 2023-06-21 |   |   |
 11 | 2023-06-28 | Roland Roller (DFKI)  | tba  |
