@@ -1,4 +1,4 @@
-# Information Extraction in Low-Resource Domains and Language
+# Information Extraction in Low-Resource Domains and Languages
 
 *Leonhard Hennig, DFKI (Berlin)*
 
