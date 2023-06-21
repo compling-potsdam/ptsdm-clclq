@@ -22,7 +22,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 08 | 2023-06-07 | Sebastian Ruder (Google Berlin)  | Challenges and Opportunities in NLP for Under-Represented Languages [(abstract)](material/2023/ruder_abstract.md)  |
 09 | 2023-06-14 | Leonhard Hennig (DFKI)  | Information Extraction in Low-Resource Domains and Languages [(abstract)](material/2023/hennig_abstract.md)  |
 10 | 2023-06-21 |   |   |
-11 | 2023-06-28 | Roland Roller (DFKI)  | tba  |
+11 | 2023-06-28 | Roland Roller (DFKI)  | When Performance is not Enough - A Multidisciplinary View on Clinical Decision Support [(abstract)](material/2023/roller_abstract.md)  |
 12 | 2023-07-05 |   |   |
 13 | 2023-07-12 |   |   |
 14 | 2023-07-19 |  Aljoscha Burchardt (DFKI) | tba  |
