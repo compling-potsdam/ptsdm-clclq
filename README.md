@@ -26,7 +26,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 12 | 2023-07-05 |   |   |
 13 | 2023-07-**11** | Tal Linzen (NYU, Google NY)  | Sources of syntactic inductive biases in language models [(abstract)](material/2023/linzen_abstract.md) [Please note: this is the **Tuesday** of that week; and the talk will be in room 0.12; starting 4pm sharp] |
 14 | 2023-07-19 |  Aljoscha Burchardt (DFKI) | Interesting Times -- Are We Witnessing the End of Classical NLP and the Beginning of Ethical AI? [(abstract)](material/2023/burchardt_abstract.md)  |
-15 | | 2023-07-26  |   |
+15 | 2023-07-26  |   |  |
 
 
 ### Previous Years
