@@ -20,14 +20,14 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 04 | 2024-04-30 | internal | MSc Disputation UB |
 05 | 2024-05-07 | internal | clemclub |
 06 | 2024-05-14 | PotsPhD: Brielen Madureira | tba |
-07 | 2024-05-21 | | |
+07 | 2024-05-21 | (no talk scheduled) | |
 08 | 2024-05-28 | | |
 09 | 2024-06-04 | internal | clemclub |
 10 | 2024-06-11 | | |
-11 | 2024-06-18 | | |
+11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) | 80 years of NLP |
 12 | 2024-06-25 | PotsPhD: Philipp Sadler | tba  |
 13 | 2024-07-02 | internal | clemclub |
-14 | 2024-07-09 | | |
+14 | 2024-07-09 | PotsPhD: Pelin Çelikkol | |
 15 | 2024-07-16 | | |
 
 ### Previous Years
