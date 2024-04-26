@@ -21,7 +21,7 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 05 | 2024-05-07 | internal | clemclub |
 06 | 2024-05-14 | PotsPhD: Brielen Madureira | tba |
 07 | 2024-05-21 | (no talk scheduled) | |
-08 | 2024-05-28 | | |
+08 | 2024-05-28 | MSc Cognitive Systems Students | Poster Slam |
 09 | 2024-06-04 | internal | clemclub |
 10 | 2024-06-11 | | |
 11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) | 80 years of NLP |
