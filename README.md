@@ -19,16 +19,16 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 03 | 2024-04-23 | | |
 04 | 2024-04-30 | internal | MSc Disputation UB |
 05 | 2024-05-07 | internal | clemclub |
-06 | 2024-05-14 | PotsPhD: Brielen Madureira | tba |
+06 | 2024-05-14 | PotsPhD: [Brielen Madureira](https://briemadu.github.io) | Incrementally enriching the common ground [(abstract)](material/2024/madureira_abstract.md) |
 07 | 2024-05-21 | (no talk scheduled) | |
 08 | 2024-05-28 | MSc Cognitive Systems Students | Poster Slam |
 09 | 2024-06-04 | internal | clemclub |
-10 | 2024-06-11 | | |
-11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) | 80 years of NLP |
+10 | 2024-06-11 | internal | |
+11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) **(remote)** | 80 years of NLP |
 12 | 2024-06-25 | PotsPhD: Philipp Sadler | tba  |
 13 | 2024-07-02 | internal | clemclub |
 14 | 2024-07-09 | PotsPhD: Pelin Çelikkol | |
-15 | 2024-07-16 | | |
+15 | 2024-07-16 | Nils Feldhus (DFKI Berlin) | tba |
 
 ### Previous Years
 
