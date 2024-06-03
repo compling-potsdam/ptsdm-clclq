@@ -23,6 +23,7 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 07 | 2024-05-21 | (no talk scheduled) | |
 08 | 2024-05-28 | MSc Cognitive Systems Students | Poster Slam |
 09 | 2024-06-04 | internal | clemclub |
+09 | 2024-06-**05** | [Casey Kennington](https://www.caseyreddkennington.com) (Boise State University) | Language Learning, Emotion, and Robots for Small LLMs [(abstract)](material/2024/kennington_abstract.md)<br/> **(Note unusual day (Wednesday), time (2pm), and place (2.05.1.03))**|
 10 | 2024-06-11 | internal | |
 11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) **(remote)** | 80 years of NLP |
 12 | 2024-06-25 | PotsPhD: Philipp Sadler | tba  |
