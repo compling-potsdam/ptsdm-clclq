@@ -26,7 +26,7 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 09 | 2024-06-**05** | [Casey Kennington](https://www.caseyreddkennington.com) (Boise State University) | Language Learning, Emotion, and Robots for Small LLMs [(abstract)](material/2024/kennington_abstract.md)<br/> **(Note unusual day (Wednesday), time (2pm), and place (2.05.1.03))**|
 10 | 2024-06-11 | internal | |
 11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) **(remote)** | A Brief History of Natural Language Processing [(abstract)](material/2024/tetreault_abstract.md) |
-12 | 2024-06-25 | PotsPhD: Philipp Sadler | tba  |
+12 | 2024-06-25 | PotsPhD: Philipp Sadler | Yes this one!? Can neural models learn collaborative referring in simulation and who wants to endure that a million times? [(abstract)](material/2024/sadler_abstract.md)  |
 13 | 2024-07-02 | internal | clemclub |
 14 | 2024-07-09 | PotsPhD: Pelin Çelikkol | |
 15 | 2024-07-16 | Nils Feldhus (DFKI Berlin) | tba |
