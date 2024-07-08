@@ -6,7 +6,7 @@ This year, we are putting the focus a little bit more on things that are going o
 
 
 
-While some of the talks will be given remotely via zoom (which will be clearly marked below), most will be given in person (room 0.09, building 14, Golm). 
+While some of the talks will be given remotely via zoom (which will be clearly marked below), most will be given in person (room 0.21, building 14, Golm). 
 
 (All talks will be from 4-6 pm CEST on the respective day, unless otherwise noted.)
 
@@ -28,8 +28,8 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 11 | 2024-06-18 | [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html) (Dataminr) **(remote)** | A Brief History of Natural Language Processing [(abstract)](material/2024/tetreault_abstract.md) |
 12 | 2024-06-25 | PotsPhD: Philipp Sadler | Yes this one!? Can neural models learn collaborative referring in simulation and who wants to endure that a million times? [(abstract)](material/2024/sadler_abstract.md)  |
 13 | 2024-07-02 | internal | clemclub |
-14 | 2024-07-09 | PotsPhD: Pelin Çelikkol | |
-15 | 2024-07-16 | Nils Feldhus (DFKI Berlin) | tba |
+14 | 2024-07-09 | PotsPhD: Pelin Çelikkol | Reading Scenes: Top-down Influences to Visual and Linguistic Processing During Scene Understanding [(abstract)](material/2024/celikkol_abstract.md)|
+15 | 2024-07-16 | Nils Feldhus (DFKI Berlin) | Explanation Dialogues for Understanding Language Model Behavior [(abstract)](material/2024/feldhus_abstract.md) |
 
 ### Previous Years
 
