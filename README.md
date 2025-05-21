@@ -1,4 +1,4 @@
-# Potsdam Computational Linguistics Colloquium, Summer 2024
+# Potsdam Computational Linguistics Colloquium, Summer 2025
 
 Another summer semester, another edition of the PCLC!
 
