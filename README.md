@@ -20,7 +20,8 @@ While some of the talks will be given remotely via zoom (which will be clearly m
 | 7    | 2025-05-20 |                       |                   |
 | 8    | 2025-05-**28** | [John Bateman](http://www.fb10.uni-bremen.de/anglistik/langpro/webspace/jb/zfn/index.html) (Bremen) | The role of discourse semantics and coherence in the multimodal semiotics of comics and graphic novels [(abstract)](material/2025/bateman_abstract.md) Note: This is a Wednesday; time will be 12-2pm, room 14.0.35   |
 | 9    | 2025-06-03 | internal              | clemclub          |
-| 9b   | 2025-06-04 | Neil Cohn (Tilburg) & Jochen Laubrock (Potsdam) | tba                  |
+| 9b   | 2025-06-**04** | [Neil Cohn](https://www.tilburguniversity.edu/staff/n-cohn) (Tilburg) | Visual Language Theory [(abstract)](material/2025/cohn_abstract.md)    |
+| 9c   | 2025-06-**04** | [Jochen Laubrock](https://www.uni-potsdam.de/de/pecog/mitarbeiterinnen/dr-jochen-laubrock) (Potsdam) | Multimodal cohesion affects attention and interpretation: An eye-tracking study of film [(abstract)](material/2025/laubrock_abstract.md) **Note:** Both talks are going to happen on **Wednesday** June 4th; starting at 12:00 (sharp). Room 14.0.35 |
 | 10   | 2025-06-10 |                       |                   |
 | 11   | 2025-06-17 |                       |                   |
 | 12   | 2025-06-24 |                       |                   |
